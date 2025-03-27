@@ -29,15 +29,20 @@ A ChatGPT-like chat interface built with React and Node.js that connects to Open
 
 
 ```git clone https://github.com/yourusername/assistBot.git```
+
 ```cd assistBot```
 
 Install backend dependencies
 ```npm install```
 Install frontend dependencies
+
 ```cd client```
+
 ```npm install```
 
 OPENAI_API_KEY=your_api_key_here
+
+
 OPENAI_ORG=your_org_id_here
 
 From the root directory
