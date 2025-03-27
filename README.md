@@ -29,7 +29,7 @@ A ChatGPT-like chat interface built with React and Node.js that connects to Open
 
 
 ```git clone https://github.com/yourusername/assistBot.git```
-cd assistBot
+```cd assistBot```
 
 Install backend dependencies
 ```npm install```
